@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashishrp96
 - 👀 I’m interested in Data Science Opportunities
 - 🌱 I’m currently working on Natural Language Processing and Time Series models. Developing a chat reponse sugesstion model.
-- 💞️ I’m looking to collaborate on deep learning projecst focused on computer vision.
+- 💞️ I’m looking to collaborate on deep learning projects focused on computer vision and NLP and also on business focused Machine Learning Applications.
 - 📫 How to reach me .....at ashish.rp@rutgers.edu
 
 <!---
