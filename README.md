@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ashishrp96
+- 👋 Hi, I’m Ashish Podduturi
 - 👀 I’m interested in Data Science Opportunities
-- 🌱 I’m currently working on Natural Language Processing and Time Series models.
+- 🌱 I’m currently working on Natural Language Processing and practicing Time Series models.
 - 💞️ I’m looking to collaborate on deep learning projects focused on computer vision and NLP and also on business focused Machine Learning Applications.
 - 📫 How to reach me .....at ashish.rp@rutgers.edu
 
